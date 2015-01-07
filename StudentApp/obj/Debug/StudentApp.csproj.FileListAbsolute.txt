@@ -1,0 +1,14 @@
+J:\20-12-14\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+J:\20-12-14\StudentApp\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache
+J:\20-12-14\StudentApp\StudentApp\obj\Debug\StudentApp.studentForm.resources
+J:\20-12-14\StudentApp\StudentApp\obj\Debug\StudentApp.Properties.Resources.resources
+J:\20-12-14\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.GenerateResource.Cache
+J:\20-12-14\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+J:\20-12-14\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+J:\20-12-14\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+J:\20-12-14\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
+J:\20-12-14\StudentApp\StudentApp\obj\Debug\StudentApp.Menu.resources
+J:\20-12-14\StudentApp\StudentApp\obj\Debug\StudentApp.ViewUI.resources
+F:\20-12-14\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+F:\20-12-14\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+F:\20-12-14\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
